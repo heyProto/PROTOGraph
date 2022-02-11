@@ -10,7 +10,7 @@ ruby "2.5.3"
 #RAILS
 gem 'rails', '~> 5.1.1'
 gem 'pg'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 
 #CORE INFRASTRUCTURE
 gem 'friendly_id', '~> 5.1.0'
